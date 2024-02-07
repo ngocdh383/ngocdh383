@@ -1,18 +1,18 @@
-# Hey everyone, I'm Ngoc Dinh Hong 👋
+## Hey everyone, I'm Ngoc Dinh Hong 👋
 
 I'm a Mobile Developer @ Mservice.
 
 I care a lot about mental health and open source, and won’t stop talking about either.
 
-# Working on ⚙️
+## Working on ⚙️
 
 updating...
 
-# Projects ✨
+## Projects ✨
 
 updating...
 
-# Contacts 📬
+## Contacts 📬
 
 -   Email: dinhhongngoc1234@gmail.com
 -   Twitter: @NgocDinhHong1
